@@ -1,0 +1,36 @@
+version: '3.8'
+services:
+  mongo:
+    image: mongo:6.0
+    container_name: hpm-mongo
+    restart: always
+    ports:
+      - '27017:27017'
+    volumes:
+      - mongo_data:/data/db
+
+  backend:
+    build: ./project-management-app/server
+    container_name: hpm-backend
+    restart: always
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/storymapping
+      - PORT=5000
+    ports:
+      - '5000:5000'
+    depends_on:
+      - mongo
+
+  frontend:
+    build: ./project-management-app/client
+    container_name: hpm-frontend
+    restart: always
+    environment:
+      - NEXT_PUBLIC_API_URL=http://hpm-backend:5000/api
+    ports:
+      - '3000:3000'
+    depends_on:
+      - backend
+
+volumes:
+  mongo_data:
