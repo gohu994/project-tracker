@@ -1,10 +1,40 @@
+# HPM - Project Management System
+
+HPM (Highly Productive Management) est une application de gestion de projets conçue pour simplifier la gestion des tâches, des phases et des projets dans une organisation. Ce projet est divisé en deux parties principales :
+
+- **Frontend** : Une application Next.js utilisant TypeScript et Tailwind CSS.
+- **Backend** : Une API REST construite avec Node.js, Express, et MongoDB.
+
+## Structure du projet
+- **`project-management-app/`** : Contient le frontend et le backend.
+  - **`client/`** : Le frontend de l'application.
+  - **`server/`** : Le backend de l'application.
+
+## Fonctionnalités principales
+- Gestion des projets, phases et tâches principales.
+- Interface utilisateur moderne et réactive.
+- API REST pour la gestion des données.
+
+## Prérequis
+- Node.js (version 16 ou supérieure)
+- MongoDB
+- Docker (optionnel pour exécuter via `docker-compose`)
+
+## Démarrage rapide
+1. Clonez ce dépôt.
+2. Suivez les instructions dans les fichiers README des dossiers `client` et `server` pour démarrer les deux parties de l'application.
+
+---
+
+Pour toute question ou contribution, ouvrez une issue ou soumettez une pull request.
+
 # Project Management App (Next.js)
 
 Ce projet est une migration de l'application Project Tracker App vers Next.js (TypeScript, App Router, Tailwind).
 
 ## Structure
-- **Frontend** : Next.js (ce dossier)
-- **Backend** : à placer dans le sous-dossier `server` (Node.js/Express/MongoDB)
+- **Frontend** : Contenu dans le dossier `client`.
+- **Backend** : Contenu dans le sous-dossier `server` (Node.js/Express/MongoDB).
 
 ## Pages principales
 - **Accueil (HomePage)** : Page d'accueil de l'application.
@@ -39,4 +69,4 @@ docker-compose up
 
 ---
 
-Pour toute migration de composants/services, adapter les imports et le routage selon la structure Next.js.
+Pour toute migration de composants/services, adaptez les imports et le routage selon la structure Next.js.

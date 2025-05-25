@@ -1,0 +1,178 @@
+<mxfile host="app.diagrams.net" modified="2025-05-23T10:03:50.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" etag="Mtyzi1ydcXvbCxaKMmCS" version="24.4.13" type="device">
+  <diagram name="Page-1" id="1nS4NEEEwvPvnncqgwGQ">
+    <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="600" as="sourcePoint" />
+            <mxPoint x="120" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-3" value="Persona" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-4" value="Epics" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-6" value="Features" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-18" value="Gérer les collaborateurs" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="150" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-20" value="Gérer les macro-tâches et les phases de projets" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="120" as="sourcePoint" />
+            <mxPoint x="1130" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="200" as="sourcePoint" />
+            <mxPoint x="1130" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-23" value="Gérer des projets" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-24" value="Gérer les ressources" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="570" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-25" value="Visualiser le taux d&#39;occupation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="710" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-26" value="Gérer les périodes d&#39;indisponibilité" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="850" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-29" value="Project&lt;div style=&quot;font-size: 11px;&quot;&gt;Managers&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="170" y="50" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-31" value="Project&lt;div style=&quot;font-size: 11px;&quot;&gt;Managers&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="310" y="50" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-34" value="Developers" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="870" y="50" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-35" value="Project&lt;div style=&quot;font-size: 11px;&quot;&gt;Managers&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="450" y="50" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-36" value="Project&lt;div style=&quot;font-size: 11px;&quot;&gt;Managers&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="590" y="50" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-37" value="Project&lt;div style=&quot;font-size: 11px;&quot;&gt;Managers&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="730" y="50" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-40" value="Ajouter un collaborateur" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-42" value="Modifier un collaborateur" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-43" value="Supprimer un collaborateur" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-44" value="Visualiser les périodes de présence" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-49" value="Ajouter une macro-tâche" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="290" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-50" value="Modifier une macro-tâche" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-51" value="Supprimer une macro-tâche" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-52" value="Chiffrer une macro-tâche" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="290" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-53" value="Ajouter un projet" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-54" value="Modifier un projet" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-55" value="Supprimer un projet" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-56" value="Visualiser les phases et tâches du projet" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-57" value="Découper un projet en lots" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-58" value="Affecter un ou plusieurs collaborateurs à une tâche" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="570" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-59" value="Modifier l&#39;affectation d&#39;un collaborateur" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="570" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-60" value="Supprimer l&#39;affectation d&#39;un collaborateur" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-61" value="Visualiser le taux&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;d&#39;occupation d&#39;un collaborateur&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="570" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-62" value="Visualiser les collaborateurs possibles pour traiter une tâche" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="570" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-63" value="Renseigner les domaines de compétences" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-64" value="Gérer une matrice de compétences" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="990" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-66" value="Project&lt;div style=&quot;font-size: 11px;&quot;&gt;Managers&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="50" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-68" value="Ajouter une matrice" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-69" value="Modifier une matrice" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-70" value="Supprimer une matrice" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-71" value="Visualiser une matrice pour un ou plusieurs collaborateurs" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-72" value="Evaluer des compétences pour un collaborateur" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-87" value="Générer des rapports" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="710" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-88" value="Générer des graphiques" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="710" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-92" value="Affecter des collaborateurs à un projet" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-93" value="Ajouter une période d&#39;indisponibilité" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="850" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-94" value="Intégrer une matrice de compétences existante" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-95" value="Modifier une période d&#39;indisponibilité" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="850" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-96" value="Supprimer une période d&#39;indisponibilité" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="850" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-97" value="Visualiser mon calendrier" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="850" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnZAGek7UsCm-qJiRKqu-98" value="Intégrer les périodes d&#39;indisponibilité d&#39;un autre outil" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="850" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
